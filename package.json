@@ -1,0 +1,6 @@
+{
+  "description": "李金珂的 typescript 练习",
+  "dependencies": {
+    "typescript": "^2.6.1"
+  }
+}
